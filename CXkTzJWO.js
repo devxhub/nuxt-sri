@@ -1,0 +1,1 @@
+../node_modules/@nuxt/ui-templates/dist/templates/error-500.vue
