@@ -1,1 +1,0 @@
-../node_modules/nuxt/dist/app/entry.js
